@@ -1,6 +1,8 @@
 # AzureResourceGraph
 Listed below are some queries that can be used to collect important information about an Azure environment via Azure Resource Graph (https://azure.microsoft.com/en-us/features/resource-graph/)
 
+You can also download a PDF version of this table to make it easier to read. You can download that PDF from [here](https://github.com/JayWitt/AzureResourceGraph/blob/master/Resource%20Graph%20Queries.pdf).
+
 
 Details | Query 
 --------|-------
