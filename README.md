@@ -1,5 +1,5 @@
 # AzureResourceGraph
-Jay's notes on Azure Resource Graph (https://azure.microsoft.com/en-us/features/resource-graph/)
+Listed below are some queries that can be used to collect important information about an Azure environment via Azure Resource Graph (https://azure.microsoft.com/en-us/features/resource-graph/)
 
 
 Details | Query 
